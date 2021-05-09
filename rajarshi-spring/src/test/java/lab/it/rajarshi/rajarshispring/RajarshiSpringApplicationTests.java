@@ -1,10 +1,10 @@
-package lab.it.arpan.flopkartspring;
+package lab.it.rajarshi.rajarshispring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FlopkartSpringApplicationTests {
+class RajarshiSpringApplicationTests {
 
 	@Test
 	void contextLoads() {
